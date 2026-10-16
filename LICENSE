@@ -1,0 +1,30 @@
+Copyright (c) 2026 SIN. All rights reserved.
+
+Обход (Obhod) — проприетарное программное обеспечение.
+
+Разрешается бесплатно скачивать программу из официальных релизов этого репозитория,
+устанавливать и использовать её в личных целях.
+
+Без письменного разрешения правообладателя запрещается:
+- копировать, изменять, декомпилировать, дизассемблировать программу или иным образом
+  пытаться получить её исходный код;
+- распространять, публиковать, продавать или сдавать в аренду программу или её части,
+  в том числе в изменённом виде;
+- использовать дизайн, название и логотип программы в других продуктах.
+
+Программа предоставляется «как есть», без каких-либо гарантий. Правообладатель не несёт
+ответственности за любой ущерб, связанный с её использованием.
+
+Сторонние компоненты, входящие в состав программы, распространяются на условиях
+собственных лицензий — см. THIRD-PARTY-NOTICES.txt. Настоящая лицензия на них
+не распространяется.
+
+---
+
+Copyright (c) 2026 SIN. All rights reserved.
+
+Obhod is proprietary software. You may download it free of charge from the official releases
+of this repository, install and use it for personal purposes. Copying, modifying, decompiling,
+reverse engineering, redistributing, publishing or selling the software or any part of it
+without prior written permission is prohibited. Third-party components are licensed under
+their own terms, see THIRD-PARTY-NOTICES.txt.
