@@ -63,3 +63,33 @@ WinDivert распространяется по лицензии на выбор
 License версии 3 или GNU General Public License версии 2. Файлы WinDivert
 (WinDivert.dll, WinDivert64.sys) поставляются без изменений, их исходный код
 и полный текст лицензий доступны по ссылке выше.
+
+==============================================================================
+Xray-core — https://github.com/XTLS/Xray-core
+==============================================================================
+
+Xray-core распространяется по лицензии Mozilla Public License 2.0
+(https://www.mozilla.org/MPL/2.0/). Файл xray.exe — официальная сборка
+из релизов XTLS/Xray-core, поставляется без изменений; исходный код доступен
+по ссылке выше.
+
+==============================================================================
+Wintun — https://www.wintun.net
+==============================================================================
+
+Copyright (C) 2018-2021 WireGuard LLC. All Rights Reserved.
+Файл wintun.dll — подписанная сборка WireGuard LLC, поставляется без изменений
+по лицензии Prebuilt Binaries License (https://www.wintun.net/), которая
+разрешает распространять его вместе с программами, использующими Wintun.
+
+==============================================================================
+Qt и Qt for Python (PySide6) — https://www.qt.io, https://doc.qt.io/qtforpython-6/
+==============================================================================
+
+Copyright (C) The Qt Company Ltd. and other contributors.
+Интерфейс Обхода построен на Qt и PySide6, которые распространяются по лицензии
+GNU Lesser General Public License версии 3 (https://www.gnu.org/licenses/lgpl-3.0.html).
+Библиотеки Qt (папка _internal\PySide6: Qt6*.dll, *.pyd, плагины) поставляются
+без изменений и подключаются динамически — их можно заменить своей сборкой
+той же версии. Исходный код Qt и PySide6 доступен по ссылкам выше
+и на https://download.qt.io/official_releases/.
