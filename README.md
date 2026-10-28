@@ -58,9 +58,10 @@
   масштаб, скругления и анимации. Иконка в трее и ярлыки перекрашиваются вместе с темой.
 
 <div align="center">
-<img src="screenshots/modes.png" width="49%" alt="Режимы">
+<img src="screenshots/vpn.png" width="49%" alt="VPN">
 <img src="screenshots/home-light.png" width="49%" alt="Светлая тема">
-<img src="screenshots/telegram.png" width="49%" alt="Telegram">
+<img src="screenshots/modes.png" width="49%" alt="Режимы">
+<img src="screenshots/settings.png" width="49%" alt="Оформление">
 </div>
 
 ## Обход Lite
